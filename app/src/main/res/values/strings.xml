@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_service_description">Allows Hasseena to perform supported navigation actions after you explicitly enable Accessibility access.</string>
+</resources>

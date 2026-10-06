@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="@color/bg" android:padding="16dp">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center_vertical">
+        <TextView android:id="@+id/title" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="HASSEENA" android:textColor="@color/text" android:textSize="26sp" android:textStyle="bold"/>
+        <Button android:id="@+id/settings" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Settings"/>
+    </LinearLayout>
+    <TextView android:id="@+id/status" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Ready • Your female AI companion" android:textColor="@color/muted" android:paddingTop="4dp" android:paddingBottom="12dp"/>
+    <ScrollView android:id="@+id/scroll" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:id="@+id/chat" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingBottom="12dp"/>
+    </ScrollView>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center_vertical">
+        <EditText android:id="@+id/input" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:hint="Talk to Hasseena…" android:textColor="@color/text" android:textColorHint="@color/muted" android:singleLine="true"/>
+        <Button android:id="@+id/mic" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🎙"/>
+        <Button android:id="@+id/send" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Send"/>
+    </LinearLayout>
+</LinearLayout>
