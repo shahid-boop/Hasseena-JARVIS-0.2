@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/jarvis.png" width="500">
+</p>
 🤖 Hasseena-JARVIS 0.2
 
 «A Smart Android AI Assistant for Voice Interaction, Automation & Everyday Tasks»
