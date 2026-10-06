@@ -6,7 +6,153 @@
   />
 </p>
 
+<p align="center"> 
+
+🤖 Hasseena JARVIS 0.3
+
 <p align="center">
+  <img src="file_000000002f9c820693ffbc6fae956a29.png" alt="Hasseena JARVIS" width="700">
+</p><p align="center">
+  <strong>A Personal AI Assistant for Android</strong><br>
+  Voice Interaction • Gemini AI • Android Automation • Smart Commands
+</p><p align="center">
+  <a href="https://github.com/shahid-boop/Hasseena-JARVIS-0.2/releases/tag/v0.3">
+    <img src="https://img.shields.io/badge/⬇%20Download%20APK-v0.3-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Version-v0.3-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android" alt="Android">
+  <img src="https://img.shields.io/badge/AI-Gemini-orange?style=flat-square" alt="Gemini AI">
+  <img src="https://img.shields.io/badge/Voice-Enabled-purple?style=flat-square" alt="Voice Enabled">
+  <img src="https://img.shields.io/badge/Automation-Enabled-red?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/github/license/shahid-boop/Hasseena-JARVIS-0.2?style=flat-square" alt="License">
+</p>---
+
+📥 Download APK
+
+Latest public release: Hasseena JARVIS v0.3
+
+<p align="center">
+  <a href="https://github.com/shahid-boop/Hasseena-JARVIS-0.2/releases/tag/v0.3">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20HASSEENA%20JARVIS%20APK-v0.3-success?style=for-the-badge&logo=android&logoColor=white" alt="Download Hasseena JARVIS APK">
+  </a>
+</p>APK: "Hasseena-JARVIS-V3.apk"
+Release: "v0.3"
+Developer: Shahid Bashir
+
+---
+
+✨ Features
+
+Feature| Status
+🤖 AI Assistant| ✅ Available
+🧠 Gemini AI Integration| ✅ Available
+🎙️ Voice Interaction| ✅ Available
+📱 Android Assistant| ✅ Available
+⚡ Smart Commands| ✅ Available
+🔧 Android Automation| ✅ Available
+🌐 Web Search| ✅ Available
+🎵 Media Controls| ✅ Available
+⏰ Timer & Alarm Commands| ✅ Available
+🌍 English / Roman Urdu / Urdu Commands| ✅ Available
+🔄 Expandable Architecture| 🚀 Ongoing
+
+🧠 AI-Powered Interaction
+
+Hasseena JARVIS is designed to provide an intelligent assistant experience on Android, combining local command handling with AI-powered responses.
+
+🎙️ Voice Commands
+
+Interact with Hasseena JARVIS using voice commands and perform supported Android actions without manually navigating through multiple screens.
+
+⚡ Smart Automation
+
+The assistant can handle supported device actions and everyday commands, with the project architecture designed for adding more automation capabilities in future versions.
+
+🌍 Multi-Language Interaction
+
+The project focuses on English, Roman Urdu and Urdu-style commands, making the assistant more accessible for users who naturally communicate in these languages.
+
+---
+
+🖼️ Screenshots
+
+Hasseena JARVIS — Main Interface
+
+<p align="center">
+  <img src="file_000000002f9c820693ffbc6fae956a29.png" alt="Hasseena JARVIS Main Interface" width="700">
+</p>«More screenshots and UI demonstrations can be added as the project evolves.»
+
+---
+
+🛠️ Technology
+
+- Android
+- Kotlin
+- Gradle
+- Gemini AI
+- Voice Interaction
+- Android Automation APIs
+- GitHub Releases
+
+---
+
+🚀 Project Status
+
+Current Version: "v0.3"
+
+Hasseena JARVIS is an actively developing project. Future updates may improve:
+
+- AI response quality
+- Voice recognition
+- Urdu & Roman Urdu understanding
+- Android automation
+- User interface and UX
+- Command handling
+- Assistant capabilities
+- Device compatibility
+
+---
+
+👨‍💻 Developer
+
+<p align="center">
+  <strong>Shahid Bashir</strong><br>
+  Android Developer • AI Enthusiast • Project Creator
+</p><p align="center">
+  <a href="https://github.com/shahid-boop">
+    <img src="https://img.shields.io/badge/GitHub-shahid--boop-black?style=for-the-badge&logo=github" alt="Shahid Bashir GitHub">
+  </a>
+  <a href="https://github.com/shahid-boop/Hasseena-JARVIS-0.2">
+    <img src="https://img.shields.io/badge/Project-Hasseena--JARVIS-blue?style=for-the-badge&logo=github" alt="Hasseena JARVIS Repository">
+  </a>
+</p>---
+
+⭐ Support the Project
+
+If you find Hasseena JARVIS interesting:
+
+⭐ Star the repository
+🐛 Report issues
+💡 Suggest new features
+🔀 Contribute improvements
+📢 Share the project with others
+
+Your feedback helps make the project better.
+
+---
+
+⚠️ Disclaimer
+
+Hasseena JARVIS is an independent personal Android AI project. Features and compatibility may change between releases.
+
+Always download the APK from the official GitHub repository/release page.
+
+<p align="center">
+  <strong>Built with ❤️ by Shahid Bashir</strong><br>
+  <em>Learning • Building • Improving 🚀</em>
+</p>
+  
   <strong>Hasseena-JARVIS 0.2</strong><br>
   Smart Android AI Assistant for Voice Interaction, Automation & Everyday Tasks
 </p>
